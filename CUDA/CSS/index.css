@@ -1,0 +1,641 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.purple{
+    
+    background-color: #87509c;
+    
+    
+}
+.purple-image{
+    /* margin-left: 30px;
+    margin-top: 30px; */
+    margin: 30px 0 0 30px;
+}
+.purple-li{
+    margin: -30px;
+    list-style-type: none;
+    text-align: right;
+    margin-right: 30px;
+  
+}
+.nav{
+    display: inline-block;
+}
+.nav:hover{
+    background-color: #793a8b7a;
+}
+a{
+    text-transform: uppercase;
+    font-family: "Exo 2";
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 20px;
+    font-weight: 400;  
+}
+.bars{
+    margin-left: 30px;
+    display: none;
+    padding-top: 15px;
+}
+.bars a i{
+   font-size: 40px;
+    color: #f6f2f7;
+}
+.purple-head{
+    font-family: "Exo 2";
+    color: #f6f2f7;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding-bottom: 20%;
+    align-items: center;
+    padding-bottom: 40px;
+}
+.purple-btn{
+    text-transform: uppercase;
+    font-family: "Exo 2";
+    font-weight: bold;
+    font-size: 30px;
+    background-color: rgb(220, 145, 6);
+    margin-left: 35%;
+    margin-bottom: 120px;
+    width: 30%;
+    height: 80px;
+    color: azure;
+    border-radius: 20px;
+    box-shadow: 4px 4px 17px black;
+    
+}
+.purple-btn:hover{
+    background-color: #eac808;
+}
+/* End of Purple Div */
+
+.green{
+    background-color: #38edab;
+}
+h2{
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.813);
+}
+h2,h3{
+    font-size: 30px;
+    padding-top: 20px;
+    color: aliceblue;
+    font-family: "Exo 2";
+    text-transform: uppercase;
+}
+.green-firstline{
+    padding-top: 20px;
+    font-size: 15px;
+}
+.green-secondline{
+    padding-top: 10px;
+    font-size: 15px;
+    padding-bottom: 0px;
+}
+.service{
+    margin-left: 53px;
+    margin-top: -6px;
+    display: inline-block;
+    padding:5% ;
+    padding-top: -5px;
+}
+.service1{
+    width: 300px;
+    height: 400px;
+    margin-left: 0px;
+}
+.branding{
+    padding-top: 20px; 
+}
+.b1{
+    font-weight: normal;
+    font-family: "Exo 2";
+    color: aliceblue;
+    width: 200px;
+    margin-top: 20px;
+}
+.service2{
+    width: 300px;
+    height: 400px;
+}
+.service3{
+    width: 300px;
+    height: 400px;
+}
+.service4{
+    
+    width: 300px;
+    height: 400px;
+    font-size: 10px;
+}
+.ho:hover{
+    font-size: 40px;
+}
+/* End of Green Div */
+.grey{
+    background-color: azure;
+}
+.headingfirst{
+    
+    padding-top: 20px;
+    font-family: "Exo 2";
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.776);
+    text-decoration: underline;
+    text-decoration-color: rgba(128, 128, 128, 0.4);
+
+}
+.headingsecond{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: "Exo 2";
+    size: 5px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.799);
+}
+.photos1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.p1{
+    margin-left: 20px;
+    margin-top: -6px;
+    display: inline-block;
+    padding:5% ;
+    padding-top: -5px; 
+    margin-bottom: 80px;
+}
+.person1{
+    width: 300px;
+    height: 450px;  
+}
+.person2{
+    
+    width: 300px;
+    height: 450px;
+}
+.person3{
+    width: 300px;
+    height: 450px;  
+}
+.person4{
+    width: 300px;
+    height: 450px;  
+}
+.personname{
+    text-shadow: none;
+    color: rgba(0, 0, 0, 0.799);
+    font-weight: 300;
+}
+.desgrey{
+    margin-top: 20px;
+    font-weight: 400;
+    text-shadow: none;
+    font-family: "Exo 2";
+}
+.blue{
+    margin-top: 20px;
+    color: lightskyblue;
+    font-weight: 400;
+}
+.persons{
+    margin-left: 45px;
+}
+/* grey code is end */
+.white{
+    background-color: #f6f2f7;
+}
+.skill{
+    margin-left: 153px;
+    padding-left: 53px;
+    margin-top: -6px;
+    display: inline-block;
+    padding:5% ;
+    padding-top: -5px; 
+    margin-bottom: 80px;
+}
+.per1,.per2,.per3,.per4{
+    padding-top: -70px;
+    margin-left: -26px;
+    margin-bottom: -30px;
+}
+.per2{
+    margin-left: -12px;
+    margin-top: -20px
+}
+.skill1{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: "Exo 2";
+    background-image: url("../ASSESTS/pro1.png");
+    background-repeat: no-repeat;
+}
+.skill2{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: "Exo 2";
+    background-image: url("../ASSESTS/pro2.png");
+    background-repeat: no-repeat;
+}
+.skill3{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: "Exo 2";
+    background-image: url("../ASSESTS/pro3.png");
+    background-repeat: no-repeat;
+}
+.skill4{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: "Exo 2";
+    background-image: url("../ASSESTS/pro4.png");
+    background-repeat: no-repeat;
+}
+.greyfirst
+{
+    font-family: "Exo 2";
+    text-shadow: none;
+    font-weight: 700;
+    text-decoration: none;
+}
+.pro{
+    font-family: "Exo 2";
+    margin-bottom: 30%;
+}
+/* White code is end */
+.skin{
+    background-color: #FCDC94;
+}
+.types{
+    text-align: center;
+    list-style: none;
+}
+.type{
+    background-color: #dab867b6;
+    border-radius: 10px;
+    font-family: "Exo 2";
+    font-weight: 500;
+    display: inline-block;
+    padding: 10px;  
+}
+.type:hover{
+    background-color: whitesmoke;
+}
+.laptop{
+    margin-top: 50px;
+    margin-left: 15%;
+    padding: 0px;
+    display: inline-block;
+}
+.desskin{
+    font-weight: 700;
+}
+.skinimage{
+    width: 400px;
+    height: 250px;
+}
+.skinbutton{
+    margin-top: 30px;
+    margin-left:650px;
+    margin-bottom: 50px;
+    background-color: #0ac129;
+    width: 200px;
+    height: 70px;
+    font-family: "Exo 2";
+    font-weight: 600;
+    color: #f6f2f7;
+    border-radius: 30px;
+    box-shadow: 1px 8px 9px darkgreen;
+
+}
+.skinbutton:hover{
+    background-color: #0a84c1;
+   
+}
+/* skin is end here */
+
+.pink
+{
+    background-color: #F075AA;
+}
+.pinkfirst
+{
+    color: #f6f2f7;
+}
+.pinksecond
+{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    color: #f6f2f7;
+    font-family: "Exo 2";
+    font-weight: 600;
+}
+.r1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.p2{
+    color: #f6f2f7;
+    text-shadow: 2px 2px 9px black;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.response,.i{
+    display: inline-block;
+    margin-right: -30px;
+    
+}
+.insideimage{
+    width: 150px;
+    margin-right: 0px;
+}
+.insidehead{
+    
+    align-items: center;
+    height: 250px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 40px 0px 0px;
+    margin-bottom: 0px;
+}
+.i{
+    position: relative;
+    margin-left: 30px;
+    background-position-y: 88px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    padding-bottom: 88px;
+    width: 250px;
+}
+.i2{
+    margin-left: 57px;
+}
+.h5{
+    font-family: "Exo 2";
+    font-weight: 300;
+    margin: 18px;
+    color: #f6f2f7;
+    margin-right: 20%;
+    margin-bottom: 02%;
+    size: 30%;
+    width: 350px;
+}
+.pinkheadname
+{
+    position: relative;
+    margin-right: 30%;
+    margin-bottom: 30%;
+    font-family: "Exo 2";
+    font-weight: 600;
+    margin-top: 20px;
+    color: #f6f2f7;
+    margin: 0px 0px 0px 0px;
+    text-decoration: underline white;
+}
+.blue{
+    margin-top: 0px;
+}
+.bluefirst{
+    color: #f6f2f7;
+}
+.bluefirst1{
+    margin-top: -30px;
+    color: #f6f2f7;
+}
+
+.name,.name1,.name3,.name2{
+    margin-left: 24%;
+    background-color:  #23315c;
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.name1{
+    margin-left: 0px;
+}
+.name2{
+    margin-left: 0px;
+}
+.name3{
+    margin-right: -12%;
+    width: 730px;
+    height: 120px;
+}
+.button{
+    display: block;
+    width: 300px;
+    height: 50px;
+    background-color: skyblue;
+    margin-left: 37%;
+    font-family: "Exo 2";
+    font-size: x-large;
+    color: #f6f2f7;
+    text-shadow: 2px 2px 2px black;
+}
+::placeholder{
+    color: #f6f2f7;
+    text-align: center;
+    font-family: "Exo 2";
+    font-size: x-large;
+    margin-top: 20px;
+}
+.blue1{
+    background-color: #3c5499;
+}
+.logo{
+    margin-left: 2px;
+    color: #0a84c1;
+    font-size: 30px;
+}
+.l1{
+    margin-left: -100px;
+}
+.logo1{
+    font-size: 60px;
+    margin-right: 30px;
+    color: #f6f2f7;
+}
+.logos
+{
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 175px;
+    margin-bottom: 30px;
+    
+}
+.logos1{
+    width: 600px;
+
+    margin-left: 40%;
+    
+}
+/* Resposive Websites Code */
+@media(max-width:768px)
+    {
+        .skill{
+            margin-left: 60%;
+        }
+        .name1{
+            margin-left: 185px;
+        }
+        .purple-image {
+            margin: 68px -193px -7px 17px;
+        }
+        .bars{
+            display: block;
+        }
+        .purple-image{
+        margin-bottom: 20%;
+        }
+        .nav{
+            display: none;
+        }
+        .purple-head {
+            margin: 4%;
+            margin-top: -188px;
+            margin-left: 29%;
+            width: 50cqh;
+        }
+       .service,.p1,.laptop{
+        padding-left: 18%;
+       }
+       .skill{
+        padding-left: 15%;
+       }
+       .laptop{
+        padding-left: 0;
+        }
+        .skinbutton{
+            margin-left: 30%;
+        }
+        .response{
+            display: inline;
+        }
+        .insidehead{
+            margin-left: 0px;
+        }
+        .name3{
+            margin-left: 0px;
+        }
+        .name2{
+            margin-left: 50px;
+        }
+        .skill{
+            margin-right: -20%;
+        }
+        .skill1,.skill2,.skill3,.skill4
+        {
+            margin: 10%;
+            width: 120px;
+            height: 152px;
+            background-size: cover;
+        }
+        .per1,.per2,.per3,.per4{
+            margin-left: -60px;
+        }
+        .logos1{
+            margin-left: 244px;
+            width: 650px;
+        }
+       
+    }
+@media(max-width:425px)
+    {
+        .logos1{
+            display: none;
+        }
+        .skill1,.skill2,.skill3,.skill4
+        {
+            width: 120px;
+            height: 120px;
+            background-size: cover;
+        }
+        .per1{
+            margin-left: -20px;
+        }
+        .skill{
+            margin-left: 20%;
+            display: block;
+        }
+        .purple,.green,.white,.skin,.pink{
+            width: 460px;
+        }
+        .purple-image{
+            margin-top: 16px;
+            margin-left: 7px;
+            margin-right: 20px;
+            margin-bottom: 7px;
+        }
+        .purple-head{
+            margin-bottom: 3px;
+            margin-left: 10px;
+            margin-right: 2px ;
+            margin-top: 42px;
+            border: none;
+        }
+        .purple-btn{
+            margin-left: 20px;
+            margin-right: 30px;
+            padding-bottom: 20px;
+            height: 30%;
+        }
+        .service1,.p1{
+            padding-left: 20%;
+        }
+        .laptop{
+            padding: -50px;
+        }
+        .skinbutton{
+            margin-left: 35%;
+        }
+        .response{
+            display: inline;
+        }
+        .insideimage{
+            margin: 5px 0px 0px 5px;
+            margin-right: 0px;
+            padding-bottom: 0px;
+        }
+        .pinkheadname{
+            margin-bottom: 90%;  
+        }
+        .skinimage{
+            margin-left: -20px;
+        }
+        .skill{
+            margin-left: 18%;
+        }
+        .i2{
+            margin-left: 0px;
+            margin-bottom: 0px;
+        }
+        .response,.pinkheadname,.h5{
+            margin-left: 30%;
+        }
+        .name{
+            margin-left: 13px;
+        }
+        .name3{
+            margin-left: 4px;
+            width: 380px;
+            height: 80px;
+        }
+        .button{
+            width: 180px;
+            margin-left: 82px;
+        }
+        .name1{
+            margin-left: 0px;
+        }
+    }
+    
